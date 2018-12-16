@@ -1,3 +1,6 @@
+#nama : Dimas Setyawan Ramadhansyah
+#nim : 17523152
+
 library('matlib')
 
 #1)
